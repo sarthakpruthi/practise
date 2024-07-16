@@ -1,0 +1,12 @@
+package com.bhaicodekaro.bhaicodekaro_service.exception;
+
+import org.apache.coyote.BadRequestException;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+@RestControllerAdvice
+public class GlobalExceptionHandler {
+
+//    @ExceptionHandler(BadRequestException.class)
+//    public
+}

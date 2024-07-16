@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://sarthak:DCu8ZLnrmk7eAZvN@bhaicodekaro.t0kqxq6.mongodb.net/
+      database: bhaicodekaro
