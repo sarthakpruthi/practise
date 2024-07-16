@@ -1,0 +1,2 @@
+1. email duplicacy - create index at mongo, check before saving, create index at document
+2. _class is being saved at mongo
